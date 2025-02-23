@@ -1,6 +1,9 @@
 # WithU Backend
 
 This is the backend server for the WithU application, built with Node.js and MySQL.
+## ERD
+![ERD](erd.png)
+![ERD](erd2.png)
 
 ## Setup
 
